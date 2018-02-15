@@ -1,0 +1,43 @@
+.tp-leftarrow.default{
+    background-image:url(images/rev_arrow_left.html);
+    width:25px;
+    height:52px
+}
+.tp-rightarrow.default{
+    background-image:url(images/rev_arrow_right.html);
+    width:25px;
+    height:52px
+}
+.tp-leftarrow.default,.tp-rightarrow.default{
+    background-position:0 100%!important
+}
+.tp-leftarrow.default:hover,.tp-rightarrow.default:hover{
+    background-position:0 0!important
+}
+.tp-caption .btn-secondary{
+    border:1px solid #fff
+}
+.tp-caption .btn-secondary:hover{
+    border:1px solid #fff;
+    background:#fff;
+    color:#9fc752
+}
+.tp-caption a{
+    color:#fff;
+    font-family:Lato,sans-serif
+}
+.tp-caption a:hover{
+    color:#9fc752
+}
+.tp-caption.large_bold_white{
+    font-size:58px!important
+}
+.tp-caption.large_bold_white,.tp-caption.medium_light_white{
+    font-weight:300!important;
+    font-family:Lato,sans-serif!important
+}
+.tp-caption.medium_light_white{
+    font-size:23px!important
+}
+/*# sourceMappingURL=revolution-styles.css.map */
+ 
